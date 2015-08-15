@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 25px;
+  padding: 25px 0;
+  background: url('http://www.scrapgolduk.co.uk/uploads/image/sell-gold-coins-scrap-gold-uk.jpg') no-repeat;
+  background-size: 50% ;
+
+}
+
+h1,p {
+  color: green;
+  padding: 0 0 25px;
+
+}
+
+
+h2 {
+  color: white;
+  text-shadow: 1px 1px 4px #000;
+  margin-top: 0;
+}
